@@ -7,7 +7,7 @@
 
 <p align='center'>
  
-  <a href="www.linkedin.com/in/savithaskr"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href=["www.linkedin.com/in/savithaskr](https://www.linkedin.com/in/savithaskr/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:savitha848410@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
