@@ -24,6 +24,11 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> &nbsp;&nbsp;&nbsp;
 
 
+  
+<img src="https://img.shields.io/badge/Adobe Photoshop-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp; 
+
+
+
 </p>
 
 
