@@ -25,7 +25,7 @@
 
 
   
-<img src="https://img.shields.io/badge/Adobe Photoshop-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp; 
 
 
 
