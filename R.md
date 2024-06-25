@@ -39,7 +39,7 @@ I'm a passionate **graphic designer** and **web developer** who loves creating s
 
 ### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SavithaSkr&show_icons=true&theme=radical)
 
 ---
 
