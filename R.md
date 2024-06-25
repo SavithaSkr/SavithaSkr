@@ -6,7 +6,7 @@
 </p>
 
 
-🎨 **Graphic Designer** & 💻 **Web Developer**
+<h3>🎨 **Graphic Designer** & 💻 **Web Developer**</h3>
 
 ---
 
