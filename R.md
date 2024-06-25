@@ -39,15 +39,15 @@ I'm a passionate **graphic designer** and **web developer** who loves creating s
 
 ### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SavithaSkr&show_icons=true&theme=radical)
+![Savitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SavithaSkr&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SavithaSkr&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Let's Connect!
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/savithaskr/)
+- [Email](mailto:savitha848410@gmail.com)
 
 ---
 
