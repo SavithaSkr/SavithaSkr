@@ -1,4 +1,10 @@
-# Hi there, I'm [Your Name] 👋
+
+<h1 align='center'> Hi there 👋, I'm **Savitha Sathiyanarayanan**  👩‍💻 </h1>
+
+<p align='center'>
+  I live in Indiana, USA
+</p>
+
 
 🎨 **Graphic Designer** & 💻 **Web Developer**
 
