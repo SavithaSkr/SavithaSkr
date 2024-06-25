@@ -23,7 +23,6 @@
 <img src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white"> &nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> &nbsp;&nbsp;&nbsp;
 
-img src="https://img.shields.io/badge/logo-adobephotoshop-31A8FF?logo=adobephotoshop"
   
 <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">&nbsp;&nbsp; 
 
