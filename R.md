@@ -6,7 +6,7 @@
 </p>
 
 
-<h3>🎨 **Graphic Designer** & 💻 **Web Developer**</h3>
+<h3  align='center'>🎨 **Graphic Designer** & 💻 **Web Developer**</h3>
 
 ---
 
