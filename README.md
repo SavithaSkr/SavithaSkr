@@ -54,7 +54,7 @@ I'm a passionate **graphic designer** and **web developer** who loves creating s
 </p>
 
 ---
-
+<!--
 ### ✨ Featured Projects
 
 1. **Amazing Website** - A responsive and modern website built with React and TailwindCSS.
@@ -67,5 +67,5 @@ I'm a passionate **graphic designer** and **web developer** who loves creating s
    - [Portfolio](https://yourportfolio.com/stunning-flyer)
 
 ---
-
+-->
 Thanks for stopping by! Feel free to reach out if you want to collaborate or just chat about design and development.
