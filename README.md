@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white"> &nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> &nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png">
+
 </p>
 
 
