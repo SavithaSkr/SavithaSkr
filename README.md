@@ -26,7 +26,7 @@
   
 <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">&nbsp;&nbsp; 
 
-
+<img src="https://img.shields.io/badge/adobeillustrator-#FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">&nbsp;&nbsp; 
 
 </p>
 
