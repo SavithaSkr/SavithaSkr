@@ -12,7 +12,7 @@
 
 ### About Me
 
-I'm a passionate **graphic designer** and **web developer** who loves creating stunning visuals and functional websites. Whether you need eye-catching flyers or a sleek, responsive web application, I've got you covered!
+I'm a passionate **Graphic Designer** and **Web Developer** who loves creating stunning visuals and functional websites. Whether you need eye-catching flyers or a sleek, responsive web application, I've got you covered!
 
 ---
 
