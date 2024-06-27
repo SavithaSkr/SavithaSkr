@@ -12,7 +12,8 @@
 
 ### About Me
 
-I'm a passionate **Graphic Designer** and **Web Developer** who loves creating stunning visuals and functional websites. Whether you need eye-catching flyers or a sleek, responsive web application, I've got you covered!
+
+I'm a passionate **graphic designer**, **web developer**, and **video editor** who loves creating stunning visuals, functional websites, and engaging videos. Whether you need eye-catching flyers, a sleek, responsive web application, or professionally edited videos, I've got you covered!
 
 ---
 
@@ -35,6 +36,10 @@ I'm a passionate **Graphic Designer** and **Web Developer** who loves creating s
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+#### Video Editing
+![Filmora](https://img.shields.io/badge/Filmora-02A6FF?style=for-the-badge&logo=filmora&logoColor=white)
+
+---
 ---
 
 ### 📈 GitHub Stats
@@ -67,5 +72,4 @@ I'm a passionate **Graphic Designer** and **Web Developer** who loves creating s
    - [Portfolio](https://yourportfolio.com/stunning-flyer)
 
 ---
--->
-Thanks for stopping by! Feel free to reach out if you want to collaborate or just chat about design and development.
+-->Thanks for stopping by! Feel free to reach out if you want to collaborate or just chat about design, development, and video editing.
