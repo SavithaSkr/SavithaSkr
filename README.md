@@ -13,7 +13,7 @@
 ### About Me
 
 
-I'm a passionate **graphic designer**, **web developer**, and **video editor** who loves creating stunning visuals, functional websites, and engaging videos. Whether you need eye-catching flyers, a sleek, responsive web application, or professionally edited videos, I've got you covered!
+I'm a passionate **Graphic Designer**, **Web Developer**, and **Video Editor** who loves creating stunning visuals, functional websites, and engaging videos. Whether you need eye-catching flyers, a sleek, responsive web application, or professionally edited videos, I've got you covered!
 
 ---
 
