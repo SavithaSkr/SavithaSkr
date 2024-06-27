@@ -23,7 +23,7 @@ I'm a passionate **Graphic Designer**, **Web Developer**, and **Video Editor** w
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Filmora](https://img.shields.io/badge/Filmora-02A6FF?style=for-the-badge&logo=filmora&logoColor=white)
+
 
 #### Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
