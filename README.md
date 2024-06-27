@@ -71,5 +71,13 @@ I'm a passionate **Graphic Designer**, **Web Developer**, and **Video Editor** w
    ![Project Image](https://via.placeholder.com/250)
    - [Portfolio](https://yourportfolio.com/stunning-flyer)
 
+
+3. **Engaging Video Edits** - Professionally edited videos using Filmora.
+   ![Project Image](https://via.placeholder.com/250)
+   - [YouTube Channel](https://youtube.com/yourchannel)
+
+
 ---
--->Thanks for stopping by! Feel free to reach out if you want to collaborate or just chat about design, development, and video editing.
+-->
+
+Thanks for stopping by! Feel free to reach out if you want to collaborate or just chat about design, development, and video editing.
