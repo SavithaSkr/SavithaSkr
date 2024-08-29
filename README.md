@@ -9,7 +9,7 @@
 I'm a passionate **Graphic Designer**, **Web Developer**, and **Video Editor** who loves creating stunning visuals, functional websites, and engaging videos. Whether you need eye-catching flyers, a sleek, responsive web application, or professionally edited videos, I've got you covered!
 
 
-- 💬 Ask me about **Graphic Designing(flyers, Brouchures, Video Editing)**
+- 💬 Ask me about **Graphic Designing(flyers, Brouchures, Video Editing), Website Developement**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
