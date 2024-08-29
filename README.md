@@ -9,10 +9,6 @@
 I'm a passionate **Graphic Designer**, **Web Developer**, and **Video Editor** who loves creating stunning visuals, functional websites, and engaging videos. Whether you need eye-catching flyers, a sleek, responsive web application, or professionally edited videos, I've got you covered!
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=savithaskr" alt="savithaskr" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 💬 Ask me about **Graphic Designing(flyers, Brouchures, Video Editing)**
 
 <h3 align="left">Connect with me:</h3>
