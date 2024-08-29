@@ -8,6 +8,9 @@
 
 <h3  align='center'>🎨 **Graphic Designer** & 💻 **Web Developer**</h3>
 
+
+![image](https://github.com/user-attachments/assets/37d415ae-1487-4d56-8957-61d78337fb24)
+
 ---
 
 ### About Me
