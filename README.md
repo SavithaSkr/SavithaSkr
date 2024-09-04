@@ -30,7 +30,7 @@ I'm a passionate **Graphic Designer**, **Web Developer**, and **Video Editor** w
 
 ---
 
-### ✨ Featured Projects
+<!--### ✨ Featured Projects
 
 1. **Amazing Website** - A responsive and modern website built with React and TailwindCSS.
    ![Project Image](https://via.placeholder.com/250)
@@ -45,7 +45,7 @@ I'm a passionate **Graphic Designer**, **Web Developer**, and **Video Editor** w
 3. **Engaging Video Edits** - Professionally edited videos using Filmora.
    ![Project Image](https://via.placeholder.com/250)
    - [YouTube Channel](https://youtube.com/yourchannel)
-
+-->
 
 ---
 -->
